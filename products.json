@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Smartphone", "category": "electronics", "price": 699.99 },
+    { "id": 2, "name": "Laptop", "category": "electronics", "price": 999.99 },
+    { "id": 3, "name": "Headphones", "category": "electronics", "price": 199.99 },
+    { "id": 4, "name": "Sofa", "category": "furniture", "price": 499.99 },
+    { "id": 5, "name": "Coffee Table", "category": "furniture", "price": 149.99 },
+    { "id": 6, "name": "T-Shirt", "category": "clothing", "price": 29.99 }
+]
